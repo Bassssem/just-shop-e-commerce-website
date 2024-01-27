@@ -46,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact the project maintainer at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding this project, feel free to contact the project maintainer at [fbassem13@gmail.com](mailto:fbassem13@gmail.com).
 
 ## Screenshots
 
