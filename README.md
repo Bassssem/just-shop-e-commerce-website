@@ -51,7 +51,7 @@ If you have any questions or suggestions regarding this project, feel free to co
 ## Screenshots
 
 ![Screenshot 1](assets/334289913_581906724000674_3860030258646156721_n.png)
-![Screenshot 2](assets/Screenshot 2024-01-27 021954.jpg)
+![Screenshot 2](assets/Screenshot.jpg)
 
 ## Dependencies
 
